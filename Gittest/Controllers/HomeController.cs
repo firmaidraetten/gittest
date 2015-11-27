@@ -17,7 +17,7 @@ namespace Gittest.Controllers
             }
             else
             {
-
+                var test = "hest";
             }
 
             return View();
