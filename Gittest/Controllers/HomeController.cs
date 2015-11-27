@@ -30,6 +30,7 @@ namespace Gittest.Controllers
 
         public ActionResult UpdateSomething()
         {
+            var test = "nyhest";
             return View();
         }
     }
